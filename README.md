@@ -58,7 +58,7 @@ Use of the GitHub Copilot Xcode Extension is subject to [GitHub's Pre-Release Te
    and enable `GitHub Copilot`:
 
    <p align="center">
-     <img alt="Screenshot of extension permission" src="./Docs/extension-permission.png" width="582" />
+     <img alt="Screenshot of extension permission" src="./Docs/extension-permission.png" width="682" />
    </p>
 
 1. After granting the extension permission, please restart Xcode to ensure the
@@ -66,7 +66,9 @@ Use of the GitHub Copilot Xcode Extension is subject to [GitHub's Pre-Release Te
    menu.
     <br>
     <p align="center">
-      <img alt="Screenshot of Xcode Editor GitHub Copilot menu item" src="./Docs/xcode-menu.png" width="648" />
+      <img alt="Screenshot of Xcode Editor GitHub Copilot menu item" src="./Docs/xcode-menu.png" width="5![ICON0](https://github.com/user-attachments/assets/0dc67f48-4b0b-414c-8d4f-f7a891c79416)
+![3](https://github.com/user-attachments/assets/3cdb3eda-2371-4ec8-9895-7324501fa115)
+48" />
     </p>
 
     Keyboard shortcuts can be set for all menu items in the `Key Bindings`
